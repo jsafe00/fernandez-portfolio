@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "company": "Lexmark",
+    "position": "GL Accountant",
+    "date": "May 2010 - January 2011",
+    "published_at": "2021-10-02T05:12:24.621Z",
+    "created_at": "2021-10-02T05:11:57.000Z",
+    "updated_at": "2021-10-02T05:13:13.514Z",
+    "description": [
+      {
+      "id": 1,
+      "name": "Outsourced staff while employed at P&A Grant Thornton"
+      }
+    ]
+    },
+  {
+    "id": 2,
+    "company": "University of San Carlos",
+    "position": "Faculty",
+    "date": "June 2012 - October 2012",
+    "published_at": "2021-10-02T05:17:51.043Z",
+    "created_at": "2021-10-02T05:17:43.905Z",
+    "updated_at": "2021-10-02T05:17:51.102Z",
+    "description": [
+    {
+      "id": 2,
+      "name": "Part-time instructor"
+    }
+    ]
+    },
+    {
+    "id": 3,
+    "company": "P & A Grant Thornton",
+    "position": "Audit Senior",
+    "date": "November 2009 - April 2014",
+    "published_at": "2021-10-02T05:18:57.607Z",
+    "created_at": "2021-10-02T05:18:55.003Z",
+    "updated_at": "2021-10-02T05:18:57.668Z",
+    "description": [
+    {
+      "id": 3,
+      "name": "Supervised audit engagement teams to ensure that client’s set deadline is met."
+    },
+    {
+      "id": 4,
+      "name": "Responsible for developing an audit plan, in coordination with the engagement manager or partner."
+    },
+    {
+      "id": 5,
+      "name": "Also performed detailed work procedures such as overall analysis of the client’s business and its effects to its financial statements as well as detailed analysis on certain critical financial statement accounts of the client."
+    }
+    ]
+    },
+  {
+    "id": 4,
+    "company": "Mercedes-Benz Group Services Philippines, Inc.",
+    "position": "Senior Accountant",
+    "date": "April 2014 - August 2015",
+    "published_at": "2021-10-02T05:20:04.572Z",
+    "created_at": "2021-10-02T05:20:02.421Z",
+    "updated_at": "2021-10-02T05:20:04.674Z",
+    "description": [
+    {
+      "id": 6,
+      "name": "Designated as the country coordinator, facilitated monthly operation calls with the serviced market."
+    },
+    {
+      "id": 7,
+      "name": "Responsible for the reporting of Business Unit Data, delivered Internal Accounting processes and maintained the accounting master data."
+    },
+    {
+      "id": 8,
+      "name": "Ensured implementation and compliance of the agreed internal KPI and month-end closing timelines."
+    }
+    ]
+    },
+    {
+    "id": 5,
+    "company": "P & A Grant Thornton",
+    "position": "Audit Manager",
+    "date": "August 2015 - May 2017",
+    "published_at": "2021-10-02T05:20:30.730Z",
+    "created_at": "2021-10-02T05:20:29.318Z",
+    "updated_at": "2021-10-02T05:20:30.774Z",
+    "description": [
+    {
+    "id": 9,
+    "name": "Reviewed adequacy of procedures performed and performed quality control reviews for audits performed in close coordination with engagement-in-charge and audit partner."
+    },
+    {
+      "id": 10,
+      "name": "Discussed significant findings to client’s management and/or the Board for discussion of appropriate resolution of issues."
+    },
+    {
+      "id": 11,
+      "name": "Executed administrative functions necessary for daily office operations, including staff performance deliberation."
+    }
+    ]
+  },
+  {
+    "id": 6,
+    "company": "Banco De Oro, Universal Bank, Inc.",
+    "position": "Credit Analyst II",
+    "date": "June 2017 - Present",
+    "published_at": "2021-10-02T05:21:20.694Z",
+    "created_at": "2021-10-02T05:21:19.018Z",
+    "updated_at": "2021-10-02T05:21:20.746Z",
+    "description": [
+    {
+    "id": 12,
+    "name": "Performs credit evaluation on client's credit and financial data and then prepares a report outlining client's credit worthiness for EXCOM/ CRECOM."
+    },
+    {
+      "id": 13,
+      "name": "Works in close coordination with the Institutional Banking Group of the bank."
+    }
+    ]
+  }
+]
