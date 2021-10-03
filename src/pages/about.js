@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import Title from "../components/Title"
+import socialLinks from "../constants/social_links"
 import { StaticImage } from "gatsby-plugin-image"
 
 const About = () => {
@@ -23,6 +24,16 @@ const About = () => {
         <p>Board Topnotcher, CPA 
             Licensure Examination 2009
         </p>
+        <div className="social-links">
+            {socialLinks.map((link)=>{
+              return (
+                <a href={link.url} key={link.id}
+                className="social-link">
+                  {link.icon}
+                </a>
+              )
+            })}
+            </div>
         <Link to="/contact" className="btn">
             contact me
           </Link>

@@ -4,7 +4,7 @@ import Jobs from "../components/Jobs"
 const IndexPage = () => {
   return (
     <>
-      
+ 
       <main>
         <Hero />
         <Jobs />
