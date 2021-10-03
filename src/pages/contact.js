@@ -1,7 +1,12 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 const contact = () => {
   return (
     <>
+    <Helmet>
+          <meta charSet="utf-8" />
+          <title>Contact | Maricor Fernandez</title>
+        </Helmet>
       <section class="contact-page">
         <article className="contact-form">
           <h3>contact me</h3>

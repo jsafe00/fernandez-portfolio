@@ -3,10 +3,15 @@ import { Link } from "gatsby"
 import Title from "../components/Title"
 import socialLinks from "../constants/social_links"
 import { StaticImage } from "gatsby-plugin-image"
+import { Helmet } from "react-helmet"
 
 const About = () => {
   return (
     <>
+      <Helmet>
+          <meta charSet="utf-8" />
+          <title>About | Maricor Fernandez</title>
+        </Helmet>
       <section className="about-page">
         <div className="section-center about-center">
         <StaticImage src="../assets/images/accountant.jpg" 
