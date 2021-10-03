@@ -22,14 +22,14 @@ const About = () => {
             reporting.
         </p>
         <p>Board Topnotcher, CPA 
-            Licensure Examination 2009
+            Licensure Examination October 2009
         </p>
         <div className="social-links">
             {socialLinks.map((link)=>{
               return (
-                <a href={link.url} key={link.id}
+                <a target="_blank" href={link.url} key={link.id}
                 className="social-link">
-                  {link.icon}
+                  {link.icon} 
                 </a>
               )
             })}

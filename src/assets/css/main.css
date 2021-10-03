@@ -863,6 +863,12 @@ About Page
   width: 100%;
   display: block;
 }
+
+@media screen and (min-width: 992px) {
+  .about-img-svg {
+      height: 100%;
+  }
+}
 .about-text .section-title {
   margin-bottom: 2rem;
   text-align: left;
