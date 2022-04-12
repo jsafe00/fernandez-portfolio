@@ -858,18 +858,10 @@ About Page
   height: 25rem;
 }
 .about-img-svg {
-  margin-bottom: 2rem;
-  height: 25rem;
-  width: 100%;
-  display: block;
   max-width: 100%;
+  width: 500px; 
 }
 
-@media screen and (min-width: 992px) {
-  .about-img-svg {
-      max-width: 100%;
-  }
-}
 .about-text .section-title {
   margin-bottom: 2rem;
   text-align: left;
