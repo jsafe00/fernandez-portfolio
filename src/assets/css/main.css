@@ -867,7 +867,6 @@ About Page
 
 @media screen and (min-width: 992px) {
   .about-img-svg {
-      height: 100%;
       max-width: 100%;
   }
 }
